@@ -4,21 +4,12 @@ Welcome to Jazz Quiz-Console-App, a delightful and educational console-based qui
 
 ---
 
-<center><h3>Repository Contents by Project Task</h3> </center>
+<center><h3>🎵 Features</h3> </center>
+<h3>Interactive Quiz Experience</h2>: Engage with a dynamic quiz that keeps you on your toes with random jazz-related questions.
+<h3>Diverse Question Pool</h3>: Explore questions ranging from jazz history, famous musicians, iconic albums, and classic jazz standards.
+- **Score Tracking**: Keep track of your scores to measure your progress and challenge your friends.
+- **User-Friendly Interface**: Navigate through the app with ease, thanks to its intuitive and clean console interface.
 
-| Tasks | Files | Description |
-| ----- | ----- | ------ |
-| 0: Authors/README File | [AUTHORS](Patrick && Ibrahim) | Project authors |
-| 1: Pep8 | N/A | All code is pep8 compliant|
-| 2: Unit Testing | [/tests](Emmma && Felix) | All class-defining modules are unittested |
-| 3. Make BaseModel | [/models/base_model.py] (Emma && Felix) | Defines a parent class to be inherited by all model classes|
-| 4. Update BaseModel w/ kwargs | [/models/base_model.py](Emma && Felix) | Add functionality to recreate an instance of a class from a dictionary representation|
-| 5. Create FileStorage class | [/models/engine/file_storage.py](Emma && Felix) [/models/_ _init_ _.py](Emma && Felix) [/models/base_model.py](Emma && Felix) | Defines a class to manage persistent file storage system|
-| 6. Console 0.0.1 | [console.py](E&&F) | Add basic functionality to console program, allowing it to quit, handle empty lines and ^D |
-| 7. Console 0.1 | [console.py] ( E&&F) | Update the console with methods allowing the user to create, destroy, show, and update stored data |
-| 8. Create User class | [console.py](E&&F) [/models/engine/file_storage.py](E&&F) [/models/user.py](E&&F) | Dynamically implements a user class |
-| 9. More Classes | [/models/user.py](E&&F) [/models/place.py](E&&F) [/models/amenity.py](E&&F) [/models/state.py](E&&F) [/models/review.py](E&&F) | Dynamically implements more classes |
-| 10. Console 1.0 | [console.py](E&&F) [/models/engine/file_storage.py](E&&F) | Update the console and file storage system to work dynamically with all  classes update file storage |
 <br>
 <br>
 <center> <h2>General Use</h2> </center>
