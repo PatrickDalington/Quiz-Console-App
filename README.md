@@ -1,19 +1,19 @@
 ```markdown
-# 🎷 Jazz Quiz-Console-App 🎉
+<center> <h1> 🎷 Jazz Quiz-Console-App </h1> </center>
 
 Welcome to **Jazz Quiz-Console-App**, a delightful and educational console-based quiz game designed for all jazz enthusiasts! Whether you're a jazz novice or an experienced aficionado, this app promises to test your knowledge, expand your horizons, and provide a swinging good time.
 
-## 🎵 Features
+<center><h3>🎵 Features </h2><center>
 
 - **Interactive Quiz Experience**: Engage with a dynamic quiz that keeps you on your toes with random jazz-related questions.
 - **Diverse Question Pool**: Explore questions ranging from jazz history, famous musicians, iconic albums, and classic jazz standards.
 - **Score Tracking**: Keep track of your scores to measure your progress and challenge your friends.
 - **User-Friendly Interface**: Navigate through the app with ease, thanks to its intuitive and clean console interface.
 
-## 🚀 Getting Started
+<center><h2>Getting Started</h2><center>
 
 1. **Clone the repository**:
-    ```bash
+    ```
     git clone https://github.com/yourusername/Jazz-Quiz-Console-App.git
     ```
 2. **Navigate to the project directory**:
