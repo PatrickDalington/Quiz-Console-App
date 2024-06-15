@@ -22,14 +22,15 @@ Welcome to Jazz Quiz-Console-App, a delightful and educational console-based qui
     ```bash
     cd Jazz-Quiz-Console-App
     ```
-3. Install dependencies (if any):
+3. Compile the Java files:
     ```bash
-    pip install -r requirements.txt
+    javac -d bin src/*.java
     ```
 4. Run the application:
     ```bash
-    python jazz_quiz.py
+    java -cp bin Main
     ```
+
 
 
 
