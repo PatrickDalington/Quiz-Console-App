@@ -31,13 +31,17 @@ Welcome to Jazz Quiz-Console-App, a delightful and educational console-based qui
     java -cp bin Main
     ```
 
-
+<br>
+<br>
 
 <center><h1>📝 How to Play</h1></center>
 
-1. *Start the Quiz**: Launch the app and start the quiz.
-2. *Answer Questions**: Respond to each question by typing your answer and pressing enter.
-3. *Get Your Score**: At the end of the quiz, see your total score and review your answers.
+1. *Start the Quiz*: Launch the app and start the quiz.
+2. *Answer Questions*: Respond to each question by typing your answer and pressing enter.
+3. *Get Your Score*: At the end of the quiz, see your total score and review your answers.
+
+<br>
+<br>
 
 ## 🎓 Learning Outcomes
 
@@ -45,6 +49,9 @@ By playing Jazz Quiz-Console-App, you will:
 - **Deepen Your Jazz Knowledge**: Learn fascinating facts and trivia about jazz music, its history, and its legends.
 - **Improve Your Recall**: Strengthen your memory and recall through engaging and repeated play.
 - **Have Fun**: Enjoy a fun and challenging way to learn more about the world of jazz.
+
+<br>
+<br>
 
 ## 🌟 Contributing
 
@@ -55,21 +62,32 @@ We welcome contributions to enhance Jazz Quiz-Console-App! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+<br>
+<br>
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<br>
+<br>
+
 ## 💬 Contact
 
 Have questions, suggestions, or feedback? Feel free to reach out:
-- **Email**: yourname@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: patrickdalington@gmail.com
+- **GitHub**: patrickdalington (https://github.com/patrickdalington)
+
+<br>
+<br>
 
 ## 🎷 Acknowledgments
 
-Special thanks to all the jazz legends and educators who inspire us to keep the spirit of jazz alive.
+Special thanks to all the jazz legends and educators who inspire us to keep the spirit of jazz alive and all students of CWP Academy 😎.
 
 ---
+
+<br>
+<br>
 
 **Jazz Quiz-Console-App** – Because the best way to honor jazz is to keep learning and sharing its rich history and music! Happy quizzing! 🎶
