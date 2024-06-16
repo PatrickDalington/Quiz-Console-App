@@ -16,7 +16,7 @@ Welcome to Jazz Quiz-Console-App, a delightful and educational console-based qui
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Jazz-Quiz-Console-App.git
+    git clone https://github.com/yourusername/Quiz-Console-App.git
     ```
 2. Navigate to the project directory:
     ```bash
